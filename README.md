@@ -25,7 +25,7 @@ $  python tracker.py (PHONE NUMBER)
 
 On Kali Linux
 
-$  python tracker.py
+$  python3 tracker.py
 
-$  python tracker.py (PHONE NUMBER) 
+$  python3 tracker.py (PHONE NUMBER) 
 
