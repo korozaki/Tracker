@@ -16,6 +16,15 @@ AND PASTE ON THE PLACE AS SHOWN
   3. ctrl+x
  
 6. TYPE
+
+On Termux
+
+$  python tracker.py
+
+$  python tracker.py (PHONE NUMBER) 
+
+On Kali Linux
+
 $  python tracker.py
 
 $  python tracker.py (PHONE NUMBER) 
